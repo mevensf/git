@@ -1,0 +1,194 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 135.96 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "文本层" 
+        xmin = 0 
+        xmax = 135.96 
+        intervals: size = 45 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.5732922916001844 
+            text = "女1" 
+        intervals [2]:
+            xmin = 1.5732922916001844 
+            xmax = 3.737512410027302 
+            text = "男1" 
+        intervals [3]:
+            xmin = 3.737512410027302 
+            xmax = 5.90173252845442 
+            text = "女1" 
+        intervals [4]:
+            xmin = 5.90173252845442 
+            xmax = 10.173219604297414 
+            text = "男1" 
+        intervals [5]:
+            xmin = 10.173219604297414 
+            xmax = 13.391073201432471 
+            text = "女1" 
+        intervals [6]:
+            xmin = 13.391073201432471 
+            xmax = 16.324160993511327 
+            text = "无语音" 
+        intervals [7]:
+            xmin = 16.324160993511327 
+            xmax = 20.766507552388042 
+            text = "女1" 
+        intervals [8]:
+            xmin = 20.766507552388042 
+            xmax = 22.63024562901142 
+            text = "男1" 
+        intervals [9]:
+            xmin = 22.63024562901142 
+            xmax = 25.136184713505976 
+            text = "女1" 
+        intervals [10]:
+            xmin = 25.136184713505976 
+            xmax = 33.39439306013576 
+            text = "男1" 
+        intervals [11]:
+            xmin = 33.39439306013576 
+            xmax = 40.42810844502389 
+            text = "男1" 
+        intervals [12]:
+            xmin = 40.42810844502389 
+            xmax = 42.250609597383566 
+            text = "女1" 
+        intervals [13]:
+            xmin = 42.250609597383566 
+            xmax = 46.92286975404137 
+            text = "男1" 
+        intervals [14]:
+            xmin = 46.92286975404137 
+            xmax = 52.02017766454734 
+            text = "女1" 
+        intervals [15]:
+            xmin = 52.02017766454734 
+            xmax = 56.169900164514104 
+            text = "男1" 
+        intervals [16]:
+            xmin = 56.169900164514104 
+            xmax = 58.90365189305361 
+            text = "女1" 
+        intervals [17]:
+            xmin = 58.90365189305361 
+            xmax = 61.95064600715495 
+            text = "男1" 
+        intervals [18]:
+            xmin = 61.95064600715495 
+            xmax = 64.20029586709893 
+            text = "女1" 
+        intervals [19]:
+            xmin = 64.20029586709893 
+            xmax = 65.5956483118743 
+            text = "男1" 
+        intervals [20]:
+            xmin = 65.5956483118743 
+            xmax = 68.04463423535762 
+            text = "女1" 
+        intervals [21]:
+            xmin = 68.04463423535762 
+            xmax = 75.54533461626966 
+            text = "男1" 
+        intervals [22]:
+            xmin = 75.54533461626966 
+            xmax = 78.47842240834852 
+            text = "女1" 
+        intervals [23]:
+            xmin = 78.47842240834852 
+            xmax = 80.16990023063411 
+            text = "男1" 
+        intervals [24]:
+            xmin = 80.16990023063411 
+            xmax = 84.75462969203892 
+            text = "女1" 
+        intervals [25]:
+            xmin = 84.75462969203892 
+            xmax = 86.86189664945479 
+            text = "男1" 
+        intervals [26]:
+            xmin = 86.86189664945479 
+            xmax = 88.94068702636505 
+            text = "女1" 
+        intervals [27]:
+            xmin = 88.94068702636505 
+            xmax = 91.84529823793828 
+            text = "男1" 
+        intervals [28]:
+            xmin = 91.84529823793828 
+            xmax = 94.1632609668275 
+            text = "混读1" 
+        intervals [29]:
+            xmin = 94.1632609668275 
+            xmax = 95.67251973362535 
+            text = "男1" 
+        intervals [30]:
+            xmin = 95.67251973362535 
+            xmax = 97.72283353002999 
+            text = "女1" 
+        intervals [31]:
+            xmin = 97.72283353002999 
+            xmax = 100.08638971199645 
+            text = "男1" 
+        intervals [32]:
+            xmin = 100.08638971199645 
+            xmax = 102.05127376688422 
+            text = "女1" 
+        intervals [33]:
+            xmin = 102.05127376688422 
+            xmax = 102.90557118205281 
+            text = "男1" 
+        intervals [34]:
+            xmin = 102.90557118205281 
+            xmax = 107.03747662701592 
+            text = "女1" 
+        intervals [35]:
+            xmin = 107.03747662701592 
+            xmax = 108.74607145735312 
+            text = "男1" 
+        intervals [36]:
+            xmin = 108.74607145735312 
+            xmax = 112.87517563066801 
+            text = "女1" 
+        intervals [37]:
+            xmin = 112.87517563066801 
+            xmax = 114.98244258808388 
+            text = "男1" 
+        intervals [38]:
+            xmin = 114.98244258808388 
+            xmax = 117.60228799460091 
+            text = "女1" 
+        intervals [39]:
+            xmin = 117.60228799460091 
+            xmax = 118.82678095634257 
+            text = "男1" 
+        intervals [40]:
+            xmin = 118.82678095634257 
+            xmax = 121.78834532892705 
+            text = "女1" 
+        intervals [41]:
+            xmin = 121.78834532892705 
+            xmax = 128.53013710829725 
+            text = "男1" 
+        intervals [42]:
+            xmin = 128.53013710829725 
+            xmax = 131.69103754442105 
+            text = "女1" 
+        intervals [43]:
+            xmin = 131.69103754442105 
+            xmax = 133.22877289172453 
+            text = "男1" 
+        intervals [44]:
+            xmin = 133.22877289172453 
+            xmax = 135.50689933217413 
+            text = "女1" 
+        intervals [45]:
+            xmin = 135.50689933217413 
+            xmax = 135.96 
+            text = "" 

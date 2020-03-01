@@ -1,0 +1,6 @@
+﻿  test_main.cpp
+d:\vsproject\source\test_main\test_main.cpp(46): warning C4244: “=”: 从“intptr_t”转换到“long”，可能丢失数据
+d:\vsproject\source\test_main\test_main.cpp(93): warning C4244: “=”: 从“intptr_t”转换到“long”，可能丢失数据
+d:\vsproject\source\test_main\test_main.cpp(190): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\vsproject\source\test_main\test_main.cpp(241): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  test_main.vcxproj -> D:\VSproject\source\any_wav_cut\x64\Debug\test_main.exe

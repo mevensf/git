@@ -1,0 +1,4 @@
+﻿  test_main.cpp
+d:\vsproject\source\test_main\test_main.cpp(159): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\vsproject\source\test_main\test_main.cpp(211): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  test_main.vcxproj -> D:\VSproject\source\test_main\Debug\test_main.exe
